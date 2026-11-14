@@ -1,0 +1,53 @@
+# Política de Privacidade — FotoRelatório
+
+*Última atualização: 11 de novembro de 2026*
+
+O FotoRelatório é um aplicativo para criar relatórios fotográficos em campo (vistorias, obras, inspeções). Ele é desenvolvido por Ivanio Limas e distribuído pelo Google Play a um grupo restrito de pessoas convidadas.
+
+## Resumo
+
+- O app **não tem servidor próprio** e **não envia seus dados para o desenvolvedor** nem para terceiros.
+- Seus relatórios e fotos ficam **no seu aparelho** e, se você ativar a sincronização, **no seu próprio Google Drive**.
+- O app **não exibe anúncios**, **não vende dados** e **não usa ferramentas de análise ou rastreamento**.
+
+## Dados que o app usa
+
+| Dado | Para quê | Onde fica |
+|---|---|---|
+| **Fotos** tiradas pela câmera do app ou escolhidas da galeria | Montar os relatórios | No aparelho; no seu Google Drive, se a sincronização estiver ligada |
+| **Localização precisa** (GPS) no momento da foto | Registrar coordenadas, altitude e precisão na legenda, no PDF e no KMZ | Junto com a foto, no aparelho e no seu Google Drive |
+| **Textos que você digita** (títulos, legendas, tags, marcações) | Conteúdo do relatório | No aparelho e no seu Google Drive |
+| **Nome do aparelho** (ex.: "Galaxy S25 do Usuário") | Mostrar "Criado por… / editado por…" | No aparelho e no seu Google Drive |
+| **E-mail da sua conta Google** | Confirmar a conta conectada ao Google Drive | Somente no aparelho |
+
+## Permissões
+
+- **Câmera:** tirar as fotos do relatório.
+- **Localização:** gravar as coordenadas de cada foto. Usada apenas enquanto você fotografa.
+- **Localização de mídia (fotos da galeria):** ler as coordenadas gravadas nas fotos que você importa.
+- **Notificações:** mostrar o andamento e o resultado da sincronização.
+- **Internet e serviço em primeiro plano (sincronização de dados):** enviar e baixar seus relatórios do seu Google Drive, inclusive com o app minimizado, com notificação visível e botão para cancelar.
+
+## Google Drive
+
+A sincronização é **opcional**. Ao conectar sua conta Google, o app pede acesso apenas aos **arquivos que ele mesmo cria** no seu Drive (permissão `drive.file`). Ele não vê nem altera os demais arquivos do seu Drive. Os dados trafegam criptografados (HTTPS) entre o aparelho e o Google.
+
+Você pode desconectar a conta a qualquer momento em Configurações do app. Para retirar a permissão por completo, acesse **myaccount.google.com → Segurança → Apps de terceiros**.
+
+## Compartilhamento
+
+O app só envia relatórios, fotos e PDFs para outras pessoas ou aplicativos quando **você** toca em compartilhar ou exportar. O destino é o app que você escolher (por exemplo, e-mail ou WhatsApp).
+
+## Exclusão de dados
+
+- Excluir um relatório no app apaga-o do aparelho e, se sincronizado, envia a pasta correspondente para a lixeira do seu Google Drive.
+- Desinstalar o app apaga os dados guardados no aparelho.
+- Os dados no Google Drive podem ser apagados por você diretamente no Drive (pasta "FotoRelatório").
+
+## Crianças
+
+O app é destinado a uso profissional por adultos e não é direcionado a crianças.
+
+## Contato
+
+Dúvidas sobre esta política: **ivanio.limas@gmail.com**.
